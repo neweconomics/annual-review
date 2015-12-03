@@ -605,6 +605,21 @@ header {
   background-image: url("../images/average_donation.jpg");
 }
 
+
+.credits {
+  /*font-family: 'Fjalla One', sans-serif;*/
+  text-align: center;
+  color: white;
+  background-color: #fdcad0;
+  padding: 10px;
+  width: 100%;
+  /*box-shadow: 0 0 20px 5px rgba(0,0,0,.1);*/
+}
+
+.credits p {
+  font-size: 12px;
+}
+
 /******************************************
 /* RESPONSIVE
 /*******************************************/
